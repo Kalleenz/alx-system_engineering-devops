@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "kelechi:*:7:7:kelechi swe:/root/alx:/bin/bash"
+echo "kalleenz:x:0:0:Kelechi Swe:/root/alx:/bin/bash"
