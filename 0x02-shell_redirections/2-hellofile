@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "kalleenz:*:0:1:Kelechi Swe:/root/alx-system_engineering/0x02-shell_redirections/2-hellofile:/bin/bash"
+cat /etc/passwd
