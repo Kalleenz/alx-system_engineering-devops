@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Kelechi:x:7:7:kelechiswe:~/alx-system_engineering-devops/0x02-shell_redirections/2-hellofile:bin/bash"
+echo "Kelechi:x:7:7:kelechiswe:/root/alx-system_engineering-devops/0x02-shell_redirections/2-hellofile:/bin/bash"
